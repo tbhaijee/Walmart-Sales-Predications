@@ -29,7 +29,7 @@ Extract and load information from multiple data sources
     * Merged data using inner joins based on common columns (i.e., Store, Date, IsHoliday)
 
 
-## Analysis 
+## ANALYSIS
 * Used Jupyter Notebook Code for Plotting Average Weekly Sales
 
 * To get the color palette for the bar charts, we imported the seaborn library:
