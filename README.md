@@ -35,7 +35,7 @@ Extract and load information from multiple data sources
 * To get the color palette for the bar charts, we imported the seaborn library:
     import seaborn as sns
 
-![alt text](https://github.com/tbhaijee/project_one/blob/master/results/image2.png)
+![alt text](https://github.com/tbhaijee/project_one/blob/master/results/image2.PNG)
 
-![alt text](https://github.com/tbhaijee/project_one/blob/master/results/image1.png)
+![alt text](https://github.com/tbhaijee/project_one/blob/master/results/image1.PNG)
 
